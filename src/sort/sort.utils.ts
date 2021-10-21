@@ -1,0 +1,1 @@
+// export function sortBy(arr: any[], paths: string[] })
