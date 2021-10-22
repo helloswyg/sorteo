@@ -1,6 +1,6 @@
 {
   "name": "@swyg/sorteo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "👯 Easily sort array of objects with multiple criteria.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
