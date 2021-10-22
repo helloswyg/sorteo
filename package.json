@@ -2,8 +2,8 @@
   "name": "@swyg/sorteo",
   "version": "1.0.0",
   "description": "👯 Easily sort array of objects with multiple criteria.",
-  "main": "dist/cjs/src/index.js",
-  "module": "dist/esm/src/index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
